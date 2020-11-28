@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="cli" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="TraficomDAS" />
+    <working_directory value="$PROJECT_DIR$" />
+    <go_parameters value="-i" />
+    <parameters value="raspi.fi" />
+    <kind value="DIRECTORY" />
+    <filePath value="$PROJECT_DIR$" />
+    <package value="github.com/raspi/TraficomDAS" />
+    <directory value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
